@@ -10,9 +10,9 @@ int main(void)
 	char	str4[] = "";
 
 	
-	printf("\nValeur de str1 AVANT de de passer par fonction: '%s'\n", str1);
-	printf("\nValeur de str2 AVANT de de passer par fonction: '%s'\n", str2);
-	printf("\nValeur de str3 AVANT de de passer par fonction: '%s'\n", str3);
+	printf("\nValeur de str1 AVANT de de passer par fonction: '%s'", str1);
+	printf("\nValeur de str2 AVANT de de passer par fonction: '%s'", str2);
+	printf("\nValeur de str3 AVANT de de passer par fonction: '%s'", str3);
 	printf("\nValeur de str4 AVANT de de passer par fonction: '%s'\n\n", str4);
 
 	int res1 = ft_str_is_alpha(str1);
