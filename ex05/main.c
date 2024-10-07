@@ -4,9 +4,9 @@ int	ft_str_is_uppercase(char *str);
 
 int main(void)
 {
-	char	str1[] = "Hello 42 World";
-	char	str2[] = "HELLOWORLD";
-	char	str3[] = "HelloWorld";
+	char	str1[] = "salut, comment tu vas ? 42mots quarante-deux; cinquante+et+un";
+	char	str2[] = "hello world 42family";
+	char	str3[] = "Hello:world";
 	char	str4[] = "";
 
 	
